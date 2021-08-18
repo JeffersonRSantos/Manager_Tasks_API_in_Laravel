@@ -1,6 +1,6 @@
 ## Instruções da executar
 
-1 - Baixe o diretório em git@github.com:JeffersonRSantos/manager-tasks.git
+1 - Baixe o diretório em git@github.com:JeffersonRSantos/manager-tasks-api.git
 
 2 - Duplique o arquivo .env-exemple para dentro do diretório backend, e renomeie para .env
 
