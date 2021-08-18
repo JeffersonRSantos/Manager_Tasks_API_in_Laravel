@@ -1,7 +1,7 @@
 ## Instruções da executar
 
-1 - Clone o diretório com:
-    * git clone git@github.com:JeffersonRSantos/manager-tasks-api.git
+1. Clone o diretório com:
+    1. git clone git@github.com:JeffersonRSantos/manager-tasks-api.git
 
 2 - Duplique o arquivo .env-exemple para dentro do diretório backend, e renomeie para .env
 
